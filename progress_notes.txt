@@ -1,0 +1,3 @@
+9/7/2020
+Combination of like terms is working, but addition of constants is not.
+TODO: Consider refactoring ReciprocalExpression to make it nothing more than a SimpleExpression with the attribute that its power is negative one?
